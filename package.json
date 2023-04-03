@@ -1,0 +1,7 @@
+{
+  "name": "gcn-kafka-js-example",
+  "private": true,
+  "dependencies": {
+    "gcn-kafka": "^0.2.0"
+  }
+}
